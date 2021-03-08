@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ic_default_bg_color">#33000000</color>
+    <color name="nine_grid_bottom_dialog_text">#F9584D</color>>
+    <color name="nine_grid_dialog_more_divider">#F5F5F5</color>
+
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="cursor">#000000</color>
+    <color name="transparent">#00000000</color>
+</resources>

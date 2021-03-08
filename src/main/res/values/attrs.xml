@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="NineGridView">
+        <attr name="ngv_single_def_width" format="dimension"/>
+        <attr name="ngv_grid_max_width" format="dimension"/>
+        <attr name="ngv_single_ratio" format="float"/>
+        <attr name="ngv_grid_spacing" format="dimension"/>
+        <attr name="ngv_max_count" format="integer"/>
+        <attr name="ngv_mode" format="enum">
+            <enum name="fill" value="0"/>
+            <enum name="grid" value="1"/>
+        </attr>
+    </declare-styleable>
+</resources>
